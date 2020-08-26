@@ -55,7 +55,6 @@
 
 <details>
     <summary>:zap: GitHub Stats</summary>
-
     <img align="left" alt="PoOwAa's GitHub Stats" src="https://github-readme-stats.poowaa.vercel.app/api?username=poowaa&show_icons=true&hide_border=true" />
 </details>
 
