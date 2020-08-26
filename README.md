@@ -18,3 +18,8 @@
 <a href="https://fb.com/blacklongju" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="blacklongju" height="30" width="30" /></a>
 <a href="https://instagram.com/acsraymund" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="acsraymund" height="30" width="30" /></a>
 </p>
+
+<br />
+<br />
+
+<!--START_SECTION:activity-->
