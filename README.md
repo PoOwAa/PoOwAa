@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#225](https://github.com//benjaminsampica/benjaminsampica/issues/225) in [benjaminsampica/benjaminsampica](https://github.com//benjaminsampica/benjaminsampica)
+1. 🎉 Merged PR [#1](https://github.com//PoOwAa/nestjs-swagger-body-param-bug/pull/1) in [PoOwAa/nestjs-swagger-body-param-bug](https://github.com//PoOwAa/nestjs-swagger-body-param-bug)
 <!--END_SECTION:activity-->
