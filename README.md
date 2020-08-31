@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//PoOwAa/nestjs-swagger-body-param-bug/pull/1) in [PoOwAa/nestjs-swagger-body-param-bug](https://github.com//PoOwAa/nestjs-swagger-body-param-bug)
+1. 🎉 Merged PR [#4](https://github.com//SmarTender/Brewery/pull/4) in [SmarTender/Brewery](https://github.com//SmarTender/Brewery)
 <!--END_SECTION:activity-->
