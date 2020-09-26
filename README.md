@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com//SmarTender/Brewery/pull/4) in [SmarTender/Brewery](https://github.com//SmarTender/Brewery)
+1. 🎉 Merged PR [#4](https://github.com/SmarTender/Brewery/pull/4) in [SmarTender/Brewery](https://github.com/SmarTender/Brewery)
 <!--END_SECTION:activity-->
