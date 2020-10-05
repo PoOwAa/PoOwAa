@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/SmarTender/Brewery/pull/4) in [SmarTender/Brewery](https://github.com/SmarTender/Brewery)
+1. ❗️ Closed issue [#14](https://github.com/PoOwAa/MMM-network-signal/issues/14) in [PoOwAa/MMM-network-signal](https://github.com/PoOwAa/MMM-network-signal)
 <!--END_SECTION:activity-->
