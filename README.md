@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/PoOwAa/MMM-network-signal/pull/18) in [PoOwAa/MMM-network-signal](https://github.com/PoOwAa/MMM-network-signal)
+1. 💪 Opened PR [#159](https://github.com/hisorange/browser-detect/pull/159) in [hisorange/browser-detect](https://github.com/hisorange/browser-detect)
 <!--END_SECTION:activity-->
