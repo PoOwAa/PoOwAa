@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/PoOwAa/url-shortener/issues/6) in [PoOwAa/url-shortener](https://github.com/PoOwAa/url-shortener)
+1. ❗️ Opened issue [#7](https://github.com/PoOwAa/url-shortener/issues/7) in [PoOwAa/url-shortener](https://github.com/PoOwAa/url-shortener)
 <!--END_SECTION:activity-->
