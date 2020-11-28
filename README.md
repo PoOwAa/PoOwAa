@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13](https://github.com/PoOwAa/url-shortener/issues/13) in [PoOwAa/url-shortener](https://github.com/PoOwAa/url-shortener)
+1. 🎉 Merged PR [#13](https://github.com/PoOwAa/insomnia-plugin-snippet-sync/pull/13) in [PoOwAa/insomnia-plugin-snippet-sync](https://github.com/PoOwAa/insomnia-plugin-snippet-sync)
 <!--END_SECTION:activity-->
