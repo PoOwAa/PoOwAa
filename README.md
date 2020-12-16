@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#18](https://github.com/PoOwAa/url-shortener/issues/18) in [PoOwAa/url-shortener](https://github.com/PoOwAa/url-shortener)
+1. ❗️ Opened issue [#135](https://github.com/benawad/vsinder/issues/135) in [benawad/vsinder](https://github.com/benawad/vsinder)
 <!--END_SECTION:activity-->
