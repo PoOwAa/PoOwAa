@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#135](https://github.com/benawad/vsinder/issues/135) in [benawad/vsinder](https://github.com/benawad/vsinder)
+1. 🗣 Commented on [#142](https://github.com/benawad/vsinder/issues/142) in [benawad/vsinder](https://github.com/benawad/vsinder)
 <!--END_SECTION:activity-->
