@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#142](https://github.com/benawad/vsinder/issues/142) in [benawad/vsinder](https://github.com/benawad/vsinder)
+1. 🎉 Merged PR [#23](https://github.com/PoOwAa/insomnia-plugin-snippet-sync/pull/23) in [PoOwAa/insomnia-plugin-snippet-sync](https://github.com/PoOwAa/insomnia-plugin-snippet-sync)
 <!--END_SECTION:activity-->
