@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/PoOwAa/insomnia-plugin-snippet-sync/pull/23) in [PoOwAa/insomnia-plugin-snippet-sync](https://github.com/PoOwAa/insomnia-plugin-snippet-sync)
+1. 🎉 Merged PR [#29](https://github.com/PoOwAa/insomnia-plugin-snippet-sync/pull/29) in [PoOwAa/insomnia-plugin-snippet-sync](https://github.com/PoOwAa/insomnia-plugin-snippet-sync)
 <!--END_SECTION:activity-->
