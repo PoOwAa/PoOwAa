@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#71](https://github.com/tiangolo/dockerswarm.rocks/issues/71) in [tiangolo/dockerswarm.rocks](https://github.com/tiangolo/dockerswarm.rocks)
+1. ❗️ Closed issue [#71](https://github.com/tiangolo/dockerswarm.rocks/issues/71) in [tiangolo/dockerswarm.rocks](https://github.com/tiangolo/dockerswarm.rocks)
 <!--END_SECTION:activity-->
