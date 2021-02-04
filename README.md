@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#71](https://github.com/tiangolo/dockerswarm.rocks/issues/71) in [tiangolo/dockerswarm.rocks](https://github.com/tiangolo/dockerswarm.rocks)
+1. 💪 Opened PR [#1](https://github.com/PoOwAa/hello-world-express/pull/1) in [PoOwAa/hello-world-express](https://github.com/PoOwAa/hello-world-express)
 <!--END_SECTION:activity-->
