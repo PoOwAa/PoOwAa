@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/PoOwAa/hello-world-express/pull/1) in [PoOwAa/hello-world-express](https://github.com/PoOwAa/hello-world-express)
+1. 💪 Opened PR [#2](https://github.com/PoOwAa/hello-world-express/pull/2) in [PoOwAa/hello-world-express](https://github.com/PoOwAa/hello-world-express)
 <!--END_SECTION:activity-->
