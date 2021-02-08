@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/PoOwAa/hello-world-express/pull/9) in [PoOwAa/hello-world-express](https://github.com/PoOwAa/hello-world-express)
+1. 🗣 Commented on [#165](https://github.com/hisorange/browser-detect/issues/165) in [hisorange/browser-detect](https://github.com/hisorange/browser-detect)
 <!--END_SECTION:activity-->
