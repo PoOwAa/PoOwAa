@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#165](https://github.com/hisorange/browser-detect/issues/165) in [hisorange/browser-detect](https://github.com/hisorange/browser-detect)
+1. 🎉 Merged PR [#32](https://github.com/PoOwAa/insomnia-plugin-snippet-sync/pull/32) in [PoOwAa/insomnia-plugin-snippet-sync](https://github.com/PoOwAa/insomnia-plugin-snippet-sync)
 <!--END_SECTION:activity-->
