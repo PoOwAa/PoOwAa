@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/PoOwAa/hello-world-express/pull/13) in [PoOwAa/hello-world-express](https://github.com/PoOwAa/hello-world-express)
+1. 🎉 Merged PR [#37](https://github.com/PoOwAa/insomnia-plugin-snippet-sync/pull/37) in [PoOwAa/insomnia-plugin-snippet-sync](https://github.com/PoOwAa/insomnia-plugin-snippet-sync)
 <!--END_SECTION:activity-->
