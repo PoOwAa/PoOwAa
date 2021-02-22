@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/PoOwAa/node-hashids-extended/pull/23) in [PoOwAa/node-hashids-extended](https://github.com/PoOwAa/node-hashids-extended)
+1. ❌ Closed PR [#18](https://github.com/PoOwAa/node-hashids-extended/pull/18) in [PoOwAa/node-hashids-extended](https://github.com/PoOwAa/node-hashids-extended)
 <!--END_SECTION:activity-->
