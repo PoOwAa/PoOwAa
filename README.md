@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/PoOwAa/insomnia-plugin-snippet-sync/pull/37) in [PoOwAa/insomnia-plugin-snippet-sync](https://github.com/PoOwAa/insomnia-plugin-snippet-sync)
+1. 🎉 Merged PR [#10](https://github.com/PoOwAa/node-hashids-extended/pull/10) in [PoOwAa/node-hashids-extended](https://github.com/PoOwAa/node-hashids-extended)
 <!--END_SECTION:activity-->
