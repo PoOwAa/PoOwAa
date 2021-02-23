@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#18](https://github.com/PoOwAa/node-hashids-extended/pull/18) in [PoOwAa/node-hashids-extended](https://github.com/PoOwAa/node-hashids-extended)
+1. 💪 Opened PR [#168](https://github.com/hisorange/browser-detect/pull/168) in [hisorange/browser-detect](https://github.com/hisorange/browser-detect)
 <!--END_SECTION:activity-->
