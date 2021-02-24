@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#171](https://github.com/hisorange/browser-detect/pull/171) in [hisorange/browser-detect](https://github.com/hisorange/browser-detect)
+1. 🎉 Merged PR [#26](https://github.com/PoOwAa/node-hashids-extended/pull/26) in [PoOwAa/node-hashids-extended](https://github.com/PoOwAa/node-hashids-extended)
 <!--END_SECTION:activity-->
