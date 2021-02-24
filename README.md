@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#170](https://github.com/hisorange/browser-detect/pull/170) in [hisorange/browser-detect](https://github.com/hisorange/browser-detect)
+1. 💪 Opened PR [#171](https://github.com/hisorange/browser-detect/pull/171) in [hisorange/browser-detect](https://github.com/hisorange/browser-detect)
 <!--END_SECTION:activity-->
