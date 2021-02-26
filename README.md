@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/PoOwAa/node-hashids-extended/pull/26) in [PoOwAa/node-hashids-extended](https://github.com/PoOwAa/node-hashids-extended)
+1. 💪 Opened PR [#1](https://github.com/PoOwAa/aclatraz/pull/1) in [PoOwAa/aclatraz](https://github.com/PoOwAa/aclatraz)
 <!--END_SECTION:activity-->
