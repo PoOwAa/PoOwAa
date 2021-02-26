@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/PoOwAa/aclatraz/pull/1) in [PoOwAa/aclatraz](https://github.com/PoOwAa/aclatraz)
+1. 🎉 Merged PR [#2](https://github.com/PoOwAa/aclatraz/pull/2) in [PoOwAa/aclatraz](https://github.com/PoOwAa/aclatraz)
 <!--END_SECTION:activity-->
