@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#166](https://github.com/hisorange/browser-detect/issues/166) in [hisorange/browser-detect](https://github.com/hisorange/browser-detect)
+1. 🗣 Commented on [#172](https://github.com/hisorange/browser-detect/issues/172) in [hisorange/browser-detect](https://github.com/hisorange/browser-detect)
 <!--END_SECTION:activity-->
