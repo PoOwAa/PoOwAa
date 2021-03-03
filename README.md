@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#172](https://github.com/hisorange/browser-detect/issues/172) in [hisorange/browser-detect](https://github.com/hisorange/browser-detect)
+1. 🎉 Merged PR [#3](https://github.com/PoOwAa/aclatraz/pull/3) in [PoOwAa/aclatraz](https://github.com/PoOwAa/aclatraz)
 <!--END_SECTION:activity-->
