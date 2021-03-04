@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/PoOwAa/aclatraz/pull/5) in [PoOwAa/aclatraz](https://github.com/PoOwAa/aclatraz)
+1. 🎉 Merged PR [#171](https://github.com/hisorange/browser-detect/pull/171) in [hisorange/browser-detect](https://github.com/hisorange/browser-detect)
 <!--END_SECTION:activity-->
