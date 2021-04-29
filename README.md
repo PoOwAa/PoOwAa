@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#174](https://github.com/hisorange/browser-detect/issues/174) in [hisorange/browser-detect](https://github.com/hisorange/browser-detect)
+1. 🎉 Merged PR [#22](https://github.com/PoOwAa/MMM-network-signal/pull/22) in [PoOwAa/MMM-network-signal](https://github.com/PoOwAa/MMM-network-signal)
 <!--END_SECTION:activity-->
