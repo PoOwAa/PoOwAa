@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13](https://github.com/PoOwAa/MMM-network-signal/issues/13) in [PoOwAa/MMM-network-signal](https://github.com/PoOwAa/MMM-network-signal)
+1. 🎉 Merged PR [#26](https://github.com/PoOwAa/MMM-network-signal/pull/26) in [PoOwAa/MMM-network-signal](https://github.com/PoOwAa/MMM-network-signal)
 <!--END_SECTION:activity-->
