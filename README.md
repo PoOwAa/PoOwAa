@@ -23,5 +23,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/PoOwAa/MMM-network-signal/pull/26) in [PoOwAa/MMM-network-signal](https://github.com/PoOwAa/MMM-network-signal)
+1. ❌ Closed PR [#60](https://github.com/PoOwAa/node-hashids-extended/pull/60) in [PoOwAa/node-hashids-extended](https://github.com/PoOwAa/node-hashids-extended)
 <!--END_SECTION:activity-->
