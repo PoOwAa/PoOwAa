@@ -48,5 +48,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#60](https://github.com/PoOwAa/node-hashids-extended/pull/60) in [PoOwAa/node-hashids-extended](https://github.com/PoOwAa/node-hashids-extended)
+1. 🎉 Merged PR [#3](https://github.com/blockben-official/ebso/pull/3) in [blockben-official/ebso](https://github.com/blockben-official/ebso)
 <!--END_SECTION:activity-->
