@@ -48,5 +48,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/blockben-official/ebso/pull/4) in [blockben-official/ebso](https://github.com/blockben-official/ebso)
+1. 🎉 Merged PR [#15](https://github.com/blockben-official/bnox/pull/15) in [blockben-official/bnox](https://github.com/blockben-official/bnox)
 <!--END_SECTION:activity-->
