@@ -48,5 +48,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/blockben-official/bnox/pull/15) in [blockben-official/bnox](https://github.com/blockben-official/bnox)
+1. 🎉 Merged PR [#28](https://github.com/PoOwAa/MMM-network-signal/pull/28) in [PoOwAa/MMM-network-signal](https://github.com/PoOwAa/MMM-network-signal)
 <!--END_SECTION:activity-->
