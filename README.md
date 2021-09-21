@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working on [SmarTender](https://github.com/SmarTender)
 
-- 🌱 I’m currently learning **everything related to TypeScript**
+- 🌱 I’m currently learning **everything related to TypeScript and Solidity**
 
 - ⚡ Fun fact **I'm a serious Deadpool fan**
+
+- I just released 2 ERC20 crypto tokens [EBlockStock](https://github.com/blockben-official/ebso) and [BlockNoteX](https://github.com/blockben-official/bnox)
 
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> 
