@@ -50,5 +50,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/PoOwAa/MMM-network-signal/pull/28) in [PoOwAa/MMM-network-signal](https://github.com/PoOwAa/MMM-network-signal)
+1. ❗️ Closed issue [#27](https://github.com/PoOwAa/MMM-network-signal/issues/27) in [PoOwAa/MMM-network-signal](https://github.com/PoOwAa/MMM-network-signal)
 <!--END_SECTION:activity-->
