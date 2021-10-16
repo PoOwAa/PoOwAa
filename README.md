@@ -50,5 +50,5 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/zgosalvez/github-actions-report-lcov/issues/11) in [zgosalvez/github-actions-report-lcov](https://github.com/zgosalvez/github-actions-report-lcov)
+1. ❗️ Closed issue [#11](https://github.com/zgosalvez/github-actions-report-lcov/issues/11) in [zgosalvez/github-actions-report-lcov](https://github.com/zgosalvez/github-actions-report-lcov)
 <!--END_SECTION:activity-->
